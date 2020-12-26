@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>rap.ico</ApplicationIcon>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="img\brLogo.jpg" />
+    <None Remove="img\coachesBtn.jpg" />
+    <None Remove="img\managersBtn.jpg" />
+    <None Remove="img\playersBtn.jpg" />
+    <None Remove="img\rapsLogo.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="img\brLogo.jpg" />
+    <Resource Include="img\coachesBtn.jpg" />
+    <Resource Include="img\managersBtn.jpg" />
+    <Resource Include="img\playersBtn.jpg" />
+    <Resource Include="img\rapsLogo.jpg" />
+  </ItemGroup>
+
+
+</Project>
