@@ -1,7 +1,7 @@
 # Raptors_DesktopApp
 Database manager application for the Toronto Raptors staff and players.<br/>
-Languages: C#<br/>
-IDE: Visual Studio
+# Technologies
+C#, .NET Core, WPF 
 
 ![Alt text](./BRxRapsScreenshot1.png?raw=true "Optional Title")
 
