@@ -1,4 +1,4 @@
-# Raptors_DesktopApp
+# 🏀 RaptorsxBR
 Database manager application for the Toronto Raptors staff and players.
 
 ## Technologies
